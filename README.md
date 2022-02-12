@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you have any idea or questions, please let me know by [creating issue](https://github.com/ohayoyogi/ohayoyogi/issues/new).
+
 <!--
 **ohayoyogi/ohayoyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
